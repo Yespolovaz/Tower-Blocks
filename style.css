@@ -1,0 +1,18 @@
+body{
+	background-color:#f87373;
+}
+
+#myCanvas{
+	background-color:white;
+}
+
+#records {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#records li {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
